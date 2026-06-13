@@ -1,0 +1,15 @@
+OrderNumber,OrderLineNumber,ProductNumber,Quantity,Name,Description,Price,ProductGroup,OrderDate,CustomerName,CustomerNumber
+17835,0001,123-100,75,Little Guys,Small Guys,0.99,Normal,2014-07-05,Kalle Svensson,265849
+17835,0002,5000-AAA,1,1x1 Red Piece,,0.05,Normal,2014-07-05,Kalle Svensson,265849
+17835,0003,5000-AAB,1,1x1 Blue Piece,,0.05,Normal,2014-07-05,Kalle Svensson,265849
+17835,0004,5000-AAC,1,1x1 Yellow Piece,,0.05,Normal,2014-07-05,Kalle Svensson,265849
+17835,0005,5000-AAD,1,1x1 Green Piece,,0.05,Normal,2014-07-05,Kalle Svensson,265849
+17890,0001,123451324A,1,X-Wing Starfighter,Super awesome starfighter,99.99,Star Wars,2014-01-25,Daniel Johansson,737268
+17890,0002,4000-AAA,2,3x2 Red piece,,0.15,Normal,2014-01-25,Daniel Johansson,737268
+17890,0003,4000-BAA,2,3x2 Blue piece,,0.15,Normal,2014-01-25,Daniel Johansson,737268
+17890,0004,4000-CAA,8,2x2 Red piece,,0.10,Normal,2014-01-25,Daniel Johansson,737268
+17642,0001,2000-19,1,Small house,A normal small house,5.99,Normal,2013-05-10,Per Andersson,658254
+17642,0002,1000-1,2,Green trees,Green pine trees,1.99,Forest,2013-05-10,Per Andersson,658254
+17642,0003,1000-2,5,Green trees (Big),Big green pine trees,2.99,Forest,2013-05-10,Per Andersson,658254
+17642,0004,A145,5,Fish,Small fish,0.50,Sea,2013-05-10,Per Andersson,658254
+17642,0005,A167,3,Road,Road piece,0.99,Normal,2013-05-10,Per Andersson,658254
